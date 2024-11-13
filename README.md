@@ -1,5 +1,7 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
+# NAME: KISHORE NARAYANAN SR
+# REG.NO: 212223110023
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
